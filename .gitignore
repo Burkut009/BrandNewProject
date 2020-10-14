@@ -2,4 +2,4 @@ target
 *.iml
 .idea
 .gitignore
-pom.xml
+*.xml
